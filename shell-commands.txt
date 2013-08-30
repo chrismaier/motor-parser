@@ -1,0 +1,3 @@
+grep javascript 75mm-motor-data-raw.txt | awk -F ">" '{print $5}' |awk -F "<" '{print $1}' > 75mm-motor-list.txt
+
+

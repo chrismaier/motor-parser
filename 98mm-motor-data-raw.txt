@@ -1,0 +1,609 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML lang="en">
+<HEAD>
+<TITLE>- || Pro-X || - A better way to fly - - Cesaroni Technology Incorporated</TITLE>
+<META NAME="Author" CONTENT="www.webdotshop.com">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+<LINK REL="stylesheet" TYPE="text/css" HREF="../../styles/prox.css">
+<SCRIPT language=JavaScript1.2 src="../../scripts/photos.js"></SCRIPT>
+<script language="javascript">
+function PopUp(ref)
+{   
+    var strFeatures="toolbar=no,status=no,menubar=no,location=no"
+    strFeatures=strFeatures+",scrollbars=yes,resizable=yes,height=800,width=650"
+    
+    newWin = window.open(ref,"TellObj",strFeatures);
+       newWin.opener = top;
+}
+
+</script>
+</HEAD>
+
+<BODY bgcolor="#ffffff" text="#000000" link="#006699" vlink="#006699" alink="#006699" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><a name="top"></a>
+<div align="center">
+<!-- start Pro-X - Cesaroni Technology Inc. HEADER table -->
+<TABLE border="0" cellpadding="0" cellspacing="0" width="770">
+<tr><td colspan="2" bgcolor="#91CD95"><img src="../../images/spacer.gif" height="8" width="520"></td><td bgcolor="#2B458D"><img src="../../images/spacer.gif" height="8" width="250"></td></tr>
+<tr><td colspan="3"><img src="../../images/spacer.gif" height="50"></td></tr>
+<TR>
+    <TD colspan="2"><a href="../../index.php"><img src="../../images/logotop.gif" border="0"></a></TD>
+    <TD align="right" width="250"><FONT face="verdana,helvetica,arial,ms sans serif" size="1" color="#006699"><div id="custnav"><a href="../../index.php">home</a> | <a href="../../faqs.php">faqs</a> | <a href="../../contact.php">contact us</a></div></FONT></TD>
+</TR>
+
+<TR align="right">
+    <TD colspan="3">
+    
+    <!-- start HEADER NAV table -->
+    <table border="0" cellpadding="0" cellspacing="0" width="660">
+    <tr>
+        <td rowspan="2"><a href="../../index.php"><img src="../../images/logobottom.gif" border="0"></a></td>
+        <td bgcolor="#47AB4F"><img src="../../images/spacer.gif" width="134" height="45" border="0" alt="mainalt"></td>
+        <td><img src="../../images/spacer.gif" width="1" height="45" border="0" alt="mainalt"></td>
+        <td bgcolor="#808FBB"><img src="../../images/spacer.gif" width="133" height="45" border="0" alt="mainalt"></td>
+        <td><img src="../../images/spacer.gif" width="1" height="45" border="0" alt="mainalt"></td>
+        <td bgcolor="#91CD95"><img src="../../images/spacer.gif" width="133" height="45" border="0" alt="mainalt"></td>
+        <td><img src="../../images/spacer.gif" width="1" height="45" border="0" alt="mainalt"></td>
+        <td bgcolor="#2B458D"><img src="../../images/spacer.gif" width="133" height="45" border="0" alt="mainalt"></td>
+        <td><img src="../../images/spacer.gif" width="1" height="45" border="0" alt="mainalt"></td>
+        <td bgcolor="#47AB4F"><img src="../../images/spacer.gif" width="133" height="45" border="0" alt="mainalt"></td>
+    </tr>
+    <tr>
+        <td bgcolor="#47AB4F" align="right"><FONT face="verdana,helvetica,arial,ms sans serif" size="2" color="#ffffff"><div class="topnav"><a href="../../products.php"><B>Products</B></a></div></FONT></td>
+        <td><img src="../../images/spacer.gif" width="1" height="1" border="0" alt="mainalt"></td>
+        <td align="right" bgcolor="#808FBB"><FONT face="verdana,helvetica,arial,ms sans serif" size="2" color="#ffffff"><div class="topnav"><a href="../../downloads.php"><B>Downloads</B></a></div></FONT></td>
+        <td><img src="../../images/spacer.gif" width="1" height="1" border="0" alt="mainalt"></td>
+        <td align="right" bgcolor="#91CD95"><FONT face="verdana,helvetica,arial,ms sans serif" size="2" color="#ffffff"><div class="topnav"><a href="../../news.php"><B>News</B></a></div></FONT></td>
+        <td><img src="../../images/spacer.gif" width="1" height="1" border="0" alt="mainalt"></td>
+        <td align="right" bgcolor="#2B458D"><FONT face="verdana,helvetica,arial,ms sans serif" size="2" color="#ffffff"><div class="topnav"><a href="../../dealers.php"><B>Dealers</B></a></div></FONT></td>
+        <td><img src="../../images/spacer.gif" width="1" height="1" border="0" alt="mainalt"></td>
+        <td align="right" bgcolor="#47AB4F"><FONT face="verdana,helvetica,arial,ms sans serif" size="2" color="#ffffff"><div class="topnav"><a href="../../gallery.php"><B>Gallery</B></a></div></FONT></td>
+    </tr>
+    </table>
+    <!-- end HEADER NAV table -->
+    </TD>
+</TR>
+<TR>
+    
+    <TD colspan="3"><img src="../../images/spacer.gif" width="770" height="1" border="0"></TD>
+    
+</TR>
+</TABLE>
+<!-- end Pro-X - Cesaroni Technology HEADER table -->
+<!-- start LHS-NAV and CONTENT table -->
+<TABLE border="0" cellpadding="0" cellspacing="0" width="770">
+<TR>
+<!-- start LHS - NAV -->
+    <TD valign="top" width="210">
+    <!-- start LHS NAV table -->
+    <table border="0" cellspacing="0" cellpadding="0" width="210" class="lhnavtable">
+    <tr>
+        <td valign="middle"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="2"><FONT FACE="Verdana,Helvetica,Arial,MS Sans Serif" SIZE="2" COLOR="#003366"><SPAN CLASS="lhsnavtext">
+        <DIV id="sidenavlist">
+        <ul>
+            <li><a href="pro98.php">pro98</a></li>
+            <li><a href="hardware_pro98.php">hardware</a></li>          
+            <li><a href="../../propellant.php">Propellant Types</a></li>
+            <li><a href="../../rasp.php">download RASP Files</a></li>
+            <li><a href="../../pdfs/Pro98_Instructions.pdf">download instructions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../images/acrobat.gif" width="21" height="22" border="0"></a></li>
+            
+        </ul>
+        </DIV>
+        </FONT></td>
+    </tr>
+    </table></td>
+    <!-- end LHS NAV table -->
+
+    <td valign="top" width="560">
+    <!-- start BODY CONTENT table -->
+      <TABLE cellSpacing=0 cellPadding=0 width="560" border="0">
+        <TBODY>
+        <TR>
+          <TD colSpan="3"><IMG height="20" src="../../images/spacer.gif" width="560"></TD></TR>
+        <TR>
+          <TD colSpan="3"><img src="images/logo.gif"></TD></TR>
+        <TR>
+          <TD><IMG height="10" src="../../images/spacer.gif" width="560"></TD>
+          
+        <TR>
+            <TD vAlign=top align=left>
+            <table border=0 cellspacing=0 cellpadding=0 width=560>
+ <tr>
+  <td nowrap colspan=6 valign=bottom>
+  <div id="content"><b>Pro98® high power rocket motor reload kits</b></div>
+  </td>
+  
+ </tr>
+  <td nowrap colspan=5 valign=bottom ><br>
+  <div id="content"><b>Standard reloads</b><br>Shippable as UN 1.4C.</div>
+  </td>
+  <td nowrap valign=bottom><div id="content">&nbsp;</div></td>
+ </tr>
+ <tr>
+  <td colspan="6"><img src="../../images/spacer.gif" height="15" width="1"></td>
+ </tr>
+ 
+ <tr class="greybg1" valign="top"> 
+                  <td> <div id="content" align="center"><b>Casing size:</b></div></td>
+                  <td> <div id="content" align="center"><b>Type</b></div></td>
+                  <td> <div id="content" align="center"><b>Total impulse (Ns)</b></div></td>
+                  <td> <div id="content" align="center"><b>Burn duration (s)</b></div></td>
+                  <td> <div id="content" align="center"><b>Peak thrust (lb)</b></div></td>
+                  <td><div id="content" align="center"><b>Propellant type</b></div></td>
+                </tr>
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-1G</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=2440K1620-P')">2440K1620-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">2440</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">416</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Vmax™</div></td>
+                </tr>
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+                <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-2G</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=4842L610-P')">4842L610-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4842</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">8.1</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">209</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=5342M1560-P')">5342M1560-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5342</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">3.4</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">406</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White Thunder™</div></td>
+                </tr>
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=4807L3150-P')">4807L3150-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4807</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">825</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Vmax™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+
+                <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-3G</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=7441M1060-P')">7441M1060-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7441</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7.0</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">336</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=7579M1520-P')">7579M1520-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7579</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.0</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">410</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Blue Streak™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=7450M2505-P')">7450M2505-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7450</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">3.0</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">664</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White Thunder™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=7649M1290-P')">7649M1290-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7649</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.9</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">351</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=7312M4770-P')">7312M4770-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7312</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1361</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Vmax™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+
+                <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-4G</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=9955M1450-P')">9955M1450-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">9955</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">6.9</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">543</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=9870M1800-P')">9870M1800-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">9870</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">504</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Blue Streak™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=9876M1890-P')">9876M1890-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">9876</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.2</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">540</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Red Lightning™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=8088M1790-P')">8088M1790-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">8088</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">471</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Skidmark™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=9994M3400-P')">9994M3400-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">9994</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">2.9</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">895</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White Thunder™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=10367N1800-P')">10367N1800-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">10367</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.9</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">498</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b><font color="red">New!</font></b><b></b></div></td></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=8634M6400-P')">8634M6400-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">8634</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1.4</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1627</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Vmax™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-5G&nbsp;<b><font color="red">New!</font></b><b></b></div></td></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=12066N2200-P')">12066N2200-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">12066</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.6</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">647</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Pink™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+
+                <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-6G</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=13766N2500-P')">13766N2500-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">13766</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.4</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">871</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=14272N1975-P')">14272N1975-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">14272</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7.2</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">577</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">Green<sup><small>3</small></sup>&#8482;</div></td>
+                </tr>
+        
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=13767N2850-P')">13767N2850-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">13767</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.9</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">759</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Blue Streak™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=14200N3180-P')">14200N3180-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">14200</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">848</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Red Lightning™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=10347N10000-P')">10347N10000-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">10347</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1.0</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">2600</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Vmax™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=11077N2600-P')">11077N2600-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">11077</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.3</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">685</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Skidmark™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b><font color="red">New!</font></b><b></b></div></td></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=13628N5600-P')">13628N5600-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">13628</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">2.4</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1526</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White Thunder™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=15227N2501-P')">15227N2501-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">15227</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">6.1</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">875</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White™</div></td>
+                </tr>
+
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>   
+        
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-6GXL&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=17613N2900-P')">17613N2900-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">17613</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">6.1</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">936</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b><font color="red">New!</font></b><b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=17907N2540-P')">17907N2540-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">17907</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7.0</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">655</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Green<sup><small>3</small></sup>&#8482;</div></td>
+                </tr>
+    
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=17631N3800-P')">17631N3800-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">17631</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.7</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1146</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Blue Streak™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=17790N4100-P')">17790N4100-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">17709</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.3</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1078</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Red Lightning™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=14263N3400-P')">14263N3400-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">14263</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">4.2</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">841</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Skidmark™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=20146N5800-P')">20146N5800-P</a></b></div></td>
+                  <td nowrap valign=bottom > <div id="content" align="center">20146</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">3.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1806</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">C-Star™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center"><b></b>&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=19318N3301-P')">19318N3301-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">19318</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">5.9</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1141</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">White™</div></td>
+                </tr>
+
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;<b><font color="red">New!</font></b><b></b></div></td></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=21062O3400-P')">21062O3400-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">21062</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">6.2</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">1067</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Imax™</div></td>
+                </tr>
+        
+                <tr> 
+                  <td colspan="6"><img src="../../images/spacer.gif" height="15" width="1"></td>
+                </tr>
+                <tr > 
+                  <td colspan=6 valign=bottom > <div id="content"></div></td>
+                </tr>
+                <tr> 
+                  <td colspan="6"><img src="../../images/spacer.gif" height="5" width="1"></td>
+                </tr>
+               
+                <tr >
+  <td nowrap colspan=5 valign=bottom ><br>
+  <div id="content"><b>Moonburners</b>- one piece grain with offset core for long burn times!<br>NOTE: Segmented grains. Ships as 1.4C.</div>
+  </td>
+  <td nowrap valign=bottom><div id="content">&nbsp;</div></td>
+ </tr>
+ <tr>
+  <td colspan="6"><img src="../../images/spacer.gif" height="15" width="1"></td>
+ </tr>
+ 
+ <tr class="greybg1" valign="top"> 
+                  <td> <div id="content" align="center"><b>Casing size:</b></div></td>
+                  <td> <div id="content" align="center"><b>Type</b></div></td>
+                  <td> <div id="content" align="center"><b>Total impulse (Ns)</b></div></td>
+                  <td> <div id="content" align="center"><b>Burn duration (s)</b></div></td>
+                  <td> <div id="content" align="center"><b>Peak thrust (lb)</b></div></td>
+                  <td><div id="content" align="center"><b>Propellant type</b></div></td>
+                </tr>
+                <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-3G
+ 
+                    </div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=7400M520-P')">7400M520-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">7400</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">13.8</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">279</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+        
+        <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+
+                <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-4G
+</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=10133M795-P')">10133M795-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">10133</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">12.8</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">387</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+        
+        <tr class="greybg1"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+          <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">&nbsp;</div></td>
+                </tr>
+        
+                <tr class="greybg2"> 
+                  <td nowrap valign=bottom> <div id="content" align="center">P98-6G 
+                    </div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center"><b><a href="javascript:PopUp('motor/MotorData.php?prodid=14005N1100-P')">14005N1100-P</a></b></div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">14005</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">12.5</div></td>
+                  <td nowrap valign=bottom> <div id="content" align="center">609</div></td>
+                  <td nowrap valign=bottom><div id="content" align="center">Classic™</div></td>
+                </tr>
+               
+                <tr> 
+                  <td colspan="6"><img src="../../images/spacer.gif" height="15" width="1"></td>
+                </tr>
+                <tr > 
+                  <td colspan=6 valign=bottom > <div id="content"></div></td>
+                </tr>
+                <tr> 
+                  <td colspan="6"><img src="../../images/spacer.gif" height="5" width="1"></td>
+                </tr>
+                <tr > 
+                  <td nowrap colspan=4 valign=bottom > <div id="content"></div></td>
+                  <td><div id="content" align="center">&nbsp;</div></td>
+                  <td><div id="content" align="center">&nbsp;</div></td>
+                </tr>
+              </table></td>
+          </TR></TBODY></TABLE>
+                  <!-- end BODY CONTENT table -->
+      </TD></TR></TBODY></TABLE>
+                  <!-- end LHS-NAV and CONTENT table -->
+<!-- start FOOTER table -->
+<TABLE border="0" cellpadding="0" cellspacing="0" width="770">
+<TR>
+    <TD><img src="../../images/spacer.gif" width="300" height="15" alt="mainalt"></TD>
+    <TD><img src="../../images/spacer.gif" width="470" height="15" alt="mainalt"></TD>
+</TR>
+<TR>
+    <TD colspan="2" bgcolor="#C7E6CA"><img src="../../images/spacer.gif" width="770" height="5" alt="mainalt"></TD>
+</TR>
+<TR>
+    <TD colspan="2"><img src="../../images/spacer.gif" width="770" height="2" alt="mainalt"></TD>
+</TR>
+<TR>
+    <TD align="left" class="footernav"><FONT face="verdana,helvetica,arial,ms sans serif" size="1" color="#999999">&copy; Copyright 2012 Cesaroni Technology Incorporated. All rights reserved.</FONT></TD>
+    <TD align="right" class="footernav"><FONT face="verdana,helvetica,arial,ms sans serif" size="1" color="#999999"><a href="../../index.php">Home</a> | <a href="../../products.php">Products</a> | <a href="../../downloads.php">Downloads</a> | <a href="../../news.php">News</a> | <a href="../../dealers.php">Dealers</a> | <a href="../../gallery.php">Gallery</a></FONT></TD>
+</TR>
+<TR>
+    <TD align="left" class="footernav"></TD>
+    <TD align="right" class="footernav"><FONT face="verdana,helvetica,arial,ms sans serif" size="1" color="#999999"><a href="../../legal.php">Legal Conditions</a> | <a href="../../privacy.php">Privacy Policy</a></FONT></TD>
+</TR>
+</TABLE>
+<!-- end FOOTER table -->
+
+</div>
+</BODY>
+</HTML></body>
+</html>
+
