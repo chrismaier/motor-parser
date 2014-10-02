@@ -67,8 +67,8 @@ class MotorParser(HTMLParser.HTMLParser):
 
 
     def print_output_header(self):
-        print ' '
-        print ' '
+#        print ' '
+#        print ' '
         print 'Running Motor Parser'
         print ' ' 
 
